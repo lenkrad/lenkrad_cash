@@ -1,0 +1,8 @@
+flask
+contextlib
+bs4
+pandas
+numpy
+piecash
+yoyo-migrations
+click
